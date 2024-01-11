@@ -1,0 +1,96 @@
+lp,osoby,ilosc_osob,dorosli,potencjalne_dzieci,odpowiedz,ilosc_gosci,ilosc_osob_hotel,ilosc_pokoi,ilosc_dob,sniadanie_1_dzien,koperta_pln,koperta_usd,koperta_eur,koperta_gbp,zal_przybycia,przybycie,kobiety,mezczyzni,dzieci,typ_gosci
+1,Rodzice Jacka,2,2,,Potwierdzenie,2,2,1,2,2,5000,,,,tak,tak,1,1,,rodzina_jacka
+2,Babcia i Dziadek,2,2,,Odmowa,0,-,-,-,,3000,,,,nie,nie,0,0,,rodzina_jacka
+3,Ciocia Zosia,1,1,,Odmowa,0,-,-,-,,1000,,,,może,nie,0,0,,rodzina_jacka
+4,Bluesy,2,2,,Odmowa,0,-,-,-,,,,,,nie,nie,0,0,,rodzina_jacka
+5,Wujek Zbyszek i Elżbieta,2,2,,Potwierdzenie,2,2,1,1,1,1000,,,,tak,tak,1,1,,rodzina_jacka
+6,Eliza i Michał,4,2,2,Potwierdzenie,2,2,1,1,1,700,,,,tak,tak,1,1,2,rodzina_jacka
+7,Marcel i o_t,2,2,,Odmowa,0,-,-,-,,,,,,tak,nie,0,0,,rodzina_jacka
+8,Kuba + Kaśka,2,2,,Potwierdzenie,2,2,1,1,1,800,,,,tak,tak,1,1,,rodzina_jacka
+9,Kaśka i Paweł,2,2,,Potwierdzenie,2,2,1,1,1,700,,,,tak,tak,1,1,,rodzina_jacka
+10,Andrzej i Ewa,2,2,,Potwierdzenie,2,0,0,0,,,,600,,może,tak,1,1,,rodzina_jacka
+11,Alka i Józek ,2,2,,Odmowa,0,0,0,0,,1000,,,,może,nie,0,0,,rodzina_jacka
+12,Marian i Dorota ,2,2,,Odmowa,0,-,-,-,,,,,,może,nie,0,0,,rodzina_jacka
+13,Lidka i Karol,4,2,2,Odmowa,0,-,-,-,,,,,,może,nie,0,0,,rodzina_jacka
+14,Ewelina i Ioan,4,2,2,,,-,-,-,,,,,,może,nie,0,0,,rodzina_jacka
+15,Eryk i o_t,2,2,,,,-,-,-,,,,,,może,nie,0,0,,rodzina_jacka
+16,Irena i Zenek,2,2,,Odmowa,0,-,-,-,,,,,,nie,nie,0,0,,rodzina_jacka
+17,Gośka i Franek,2,2,,Odmowa,0,-,-,-,,,,,,może,nie,0,0,,rodzina_jacka
+18,Adam i Bożena,2,2,,Potwierdzenie,2,2,1,1,1,3000,,,,tak,tak,1,1,,rodzina_jacka
+19,Piotrek i Agnieszka,3,2,1,Potwierdzenie,3,0,0,0,0,1000,,,,tak,tak,1,1,1,rodzina_jacka
+20,Olek i Kasia,3,2,1,Potwierdzenie,2,0,0,0,0,2000,,,,tak,tak,1,1,,rodzina_jacka
+21,Edyta i o_t,2,2,,Kościół,1,0,0,0,0,3000,,,,tak,tak,1,0,,rodzina_jacka
+22,Ola i o_t,2,2,,Potwierdzenie,1,1,1,2,2,1500,,,,tak,tak,1,0,,rodzina_jacka
+23,Robert i Natalia,2,2,,Potwierdzenie,2,2,1,2,2,2000,,,,tak,tak,1,1,,rodzina_jacka
+24,Skórkiewicze,2,2,,,,-,-,-,-,,,,,nie,nie,0,0,,znajomi_rodzicow_jacka
+25,Karol i Magda,2,2,,Odmowa,0,0,0,0,0,,500,,,tak,nie,0,0,,rodzina_jacka
+26,Renata i mąż,2,2,2,Odmowa,0,-,-,-,-,,,,,może,nie,0,0,,rodzina_jacka
+27,Marek i Marlena,2,2,,Potwierdzenie,2,0,0,0,0,1000,,,,może,tak,1,1,,rodzina_jacka
+28,Maciek i o_t,2,2,,Odmowa,0,-,-,-,-,,,,,może,nie,0,0,,rodzina_jacka
+29,Mateusz i Karolina,2,2,,Potwierdzenie,2,0,0,0,0,700,,,,tak,tak,1,1,,znajomi_jacka
+30,Jacek i Klaudia,2,2,,Potwierdzenie,2,0,0,0,0,800,,,,tak,tak,1,1,,znajomi_jacka
+31,Maciej i Anetta,2,2,,Potwierdzenie,2,0,0,0,0,600,,,,tak,tak,1,1,,znajomi_jacka
+32,Piotr i Martyna J,2,2,,Potwierdzenie,2,0,0,0,0,800,,,,tak,tak,1,1,,znajomi_jacka
+33,Artur i Zuza,2,2,,Potwierdzenie,2,0,0,0,0,800,,,,tak,tak,1,1,,znajomi_jacka
+34,Krzysztof i Olga,2,2,,Potwierdzenie,2,0,0,0,0,800,,,,tak,tak,1,1,,znajomi_jacka
+35,Mateusz i Alina ,2,2,,Potwierdzenie ,2,0,0,0,0,800,,,,tak,tak,1,1,,znajomi_jacka
+36,Kamil Kawa,2,2,,Potwierdzenie,1,1,1,1,1,,,,,tak,tak,0,0,,znajomi_jacka
+37,Rodzice Natalii,2,2,,Potwierdzenie,2,2,1,2,2,,,,,tak,tak,1,1,,rodzina_natalii
+38,Magda i Andrzej,2,2,,Potwierdzenie,2,0,0,0,0,1500,,,,tak,tak,1,1,,rodzina_natalii
+39,Bracia Ostrowscy,6,6,,Potwierdzenie,3,3,2,2,2,2500,,,,tak,tak,0,3,,rodzina_natalii
+40,Wujek i Rafał Szymańscy,2,2,,Odmowa,0,-,-,-,-,,,,,może,nie,0,0,,rodzina_natalii
+41,"Paweł, Asia, Ciocia Szymańscy",4,3,1,Potwierdzenie,3,0,0,0,0,1600,,,,może,tak,2,1,,rodzina_natalii
+42,Jagoda i Wiesiek,2,2,,Potwierdzenie,2,2,1,1,1,1300,,,,może,tak,1,1,,rodzina_natalii
+43,Michał i Paulina,4,2,2,Odmowa,0,-,-,-,-,,,,,nie,nie,0,0,,rodzina_natalii
+44,Dorota i Darek,2,2,,Odmowa,0,-,-,-,-,,,,,tak,nie,0,0,,rodzina_natalii
+45,Anka i Rafał (2 dzieci),4,2,2,Odmowa,0,-,-,-,-,1000,,,,tak,nie,0,0,,rodzina_natalii
+46,Monika i Piotrek,2,2,,Odmowa,0,-,-,-,-,,,,,może,nie,0,0,,rodzina_natalii
+47,Zosiai mąż,5,2,3,Odmowa,0,-,-,-,-,,,,,może,nie,0,0,,rodzina_natalii
+48,Gośka i Artur,2,2,,Odmowa,0,-,-,-,-,,,,,tak,nie,0,0,,rodzina_natalii
+49,Ciocia Asia i mąż,4,2,2,Potwierdzenie,2,2,1,1,1,5000,,,,tak,tak,1,1,,rodzina_natalii
+50,Justyna i mąż,4,2,2,Odmowa,0,0,0,0,0,,,,,nie,nie,0,0,,rodzina_natalii
+51,Ewa,1,1,,Potwierdzenie,1,1,1,2,2,600,,,,tak,tak,1,0,,rodzina_natalii
+52,Wujek Edek i Maria,2,2,,Odmowa,0,-,-,-,-,,,,,nie,nie,0,0,,rodzina_natalii
+53,Dagmara i o_t,2,2,,Potwierdzenie,1,1,1,1,1,500,,,,tak,tak,1,0,,rodzina_natalii
+54,Rafał i o_t,2,2,,Odmowa,0,,,,,,,,,może,nie,0,0,,rodzina_natalii
+55,ŚmiechoStach i Elka,2,2,,Potwierdzenie,2,2,1,1,1,800,,,,tak,tak,1,1,,rodzina_natalii
+56,Edyta,4,2,2,Potwierdzenie ,2,2,1,1,1,400,,,,tak,tak,1,0,,rodzina_natalii
+57,Adrian i Justyna,4,2,2,Odmowa,0,,,,,,,,,może,nie,0,0,,rodzina_natalii
+58,Wojtek i Irena,2,2,,Potwierdzenie ,2,2,1,1,1,2700,,,,tak,tak,1,1,,rodzina_natalii
+59,Magda i Bogdan,4,2,2,Potwierdzenie ,2,2,1,2,2,1800,,,,może,tak,1,1,,rodzina_natalii
+60,Ulka i Lucas,4,2,2,Odmowa,0,-,-,-,-,,,,,nie,nie,0,0,,rodzina_natalii
+61,Wiolka i Conan,6,2,4,Potwierdzenie,2,2,1,3,2,400,,,200,nie,tak,1,1,,rodzina_natalii
+62,Krzysiek,3,1,2,Potwierdzenie,1,,,,,500,,,,tak,tak,0,1,,rodzina_natalii
+63,Stenia i Marian,2,2,,Potwierdzenie,2,2,1,1,1,1200,,,,tak,tak,1,1,,rodzina_natalii
+64,Wiszowaci i chłopaki,4,4,,Odmowa,0,-,-,-,-,,,,,tak,nie,0,0,,rodzina_natalii
+65,Zuza i o_t,2,2,,Odmowa,0,-,-,-,-,,,,,tak,nie,0,0,,rodzina_natalii
+66,Marta i o_t,2,2,,Odmowa,0,-,-,-,-,,,,,tak,nie,0,0,,rodzina_natalii
+67,Olka i o_t,2,1,,Potwierdzenie ,1,0,0,0,0,500,,,,tak,tak,1,0,,rodzina_natalii
+68,Marcin i o_t,2,2,,Odmowa,0,-,-,-,-,,,,,może,nie,0,0,,rodzina_natalii
+69,Karolina,1,1,,Odmowa,0,-,-,-,-,,,,,nie,nie,0,0,,rodzina_natalii
+70,Ciocia Wiesia,1,1,,Odmowa,0,-,-,-,-,,,,,nie,nie,0,0,,rodzina_natalii
+71,Agnieszka i o_t,2,2,,,,-,-,-,-,,,,,może,nie,0,0,,rodzina_natalii
+72,Wojtek Salamon i o_t,2,2,,,,-,-,-,-,,,,,może,nie,0,0,,rodzina_natalii
+73,Halina,1,1,,,,-,-,-,-,,,,,może,nie,0,0,,rodzina_natalii
+74,Ciotka Anka,1,1,,Odmowa,0,-,-,-,-,,,,,może,nie,0,0,,rodzina_natalii
+75,Magda i Paweł,2,2,,Potwierdzenie,2,0,0,0,0,1000,,,,tak,tak,1,1,,rodzina_natalii
+76,Dominika i Krystian,2,2,,Potwierdzenie,2,0,0,0,0,1100,,,,tak,tak,1,1,,znajomi_natalii
+77,Natalka i Fabian,2,2,,Potwierdzenie,2,0,0,0,0,1200,,,,tak,tak,1,1,,znajomi_natalii
+78,Ania Kuczyńska i o_t,2,2,,Potwierdzenie,1,1,1,1,1,1000,,,,tak,tak,1,0,,znajomi_natalii
+79,Paulina i Kuba,2,2,,Potwierdzenie,2,2,1,1,1,1200,,,,tak,tak,1,1,,znajomi_natalii
+80,Ulka i Daniel,3,2,1,Potwierdzenie,2,0,0,0,0,400,,,,tak,tak,1,1,,znajomi_natalii
+81,Martyna i Piotrek B,3,2,1,Odmowa,0,-,-,-,-,,,,,tak,nie,0,0,,znajomi_natalii
+82,Sara i Dawid,2,2,,Potwierdzenie,2,0,0,0,0,1000,,,,tak,tak,1,1,,znajomi_natalii
+83,Oliwia i Marcin,2,2,,Potwierdzenie,2,0,0,0,0,1000,,,,tak,tak,1,1,,znajomi_natalii
+84,Monika i Paweł,2,2,,Potwierdzenie,2,0,0,0,0,800,,,,tak,tak,1,1,,znajomi_natalii
+85,Ola i Iskra,2,2,,Poteierdzenie,2,0,0,0,0,700,,,,tak,tak,1,1,,znajomi_natalii
+86,Ela i o_t,2,2,,Potwierdzenie,1,0,0,0,0,400,,,,tak,tak,1,0,,znajomi_natalii
+87,Agata i Kuba,2,2,,Potwierdzenie,2,0,0,0,0,1000,,,,tak,tak,1,1,,znajomi_natalii
+88,Emilka i Paweł,2,2,,Potwierdzenie,2,0,0,0,0,1000,,,,tak,tak,1,1,,znajomi_natalii
+89,Zuzia i Kazik,2,2,,Potwierdzenie,2,0,0,0,0,800,,,,tak,tak,1,1,,znajomi_natalii
+90,Monika K. i o_t,2,2,,Potwierdzenie,1,0,0,0,0,500,,,,tak,tak,1,0,,znajomi_natalii
+91,Igor i o_t,2,2,,Odmowa,0,-,-,-,-,,,,,może,nie,0,0,,znajomi_natalii
+92,Asia i Jakob,2,2,,Potwierdzenie,2,0,0,0,0,1000,,,,może,tak,1,1,,znajomi_natalii
+93,Paweł i Ania,2,2,,Potwierdzenie,2,2,1,1,1,1500,,,,tak,tak,1,1,,znajomi_natalii
+94,Marek i Maxim,2,2,,Odmowa,0,-,-,-,-,,,,,tak,nie,0,0,,znajomi_natalii
+95,My,2,2,,Potwierdzenie,2,2,1,1,1,0,,,,tak,tak,1,1,,
