@@ -1,0 +1,9 @@
+liczba_osob,ilosc_pokoi,ilosc_dob,sniadania_dni,typ_pokoju,cena,wartosc,usluga,od,do
+2,5,2,2,dwuosobowy,,,pokoj_sniadanie,2023-10-06,2023-10-08
+1,2,2,2,jednosobowy,,,pokoj_sniadanie,2023-10-06,2023-10-08
+2,14,1,1,dwuosobowy,,,pokoj_sniadanie,2023-10-07,2023-10-08
+1,3,1,1,jednoosobowy,,,pokoj_sniadanie,2023-10-07,2023-10-08
+2,1,2,,dwuosobowy,,,pokoj,2023-10-07,2023-10-09
+1,1,2,,jednosobowy,,,pokoj,2023-10-07,2023-10-09
+2,1,1,,dwuosobowy,,,pokoj,2023-10-08,2023-10-09
+3,,,1,,,,sniadanie,2023-10-08,2023-10-09
