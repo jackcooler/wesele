@@ -10,4 +10,6 @@ Dodano plik .csv zawierający informacje o hotelu - liczbie osób, które skorzy
 
 Utworzono dwa słowniki z danymi nt. kosztów za salę oraz pozostałych kosztów związanych z przedsięwzięciem. Wykonano przy ich wykorzystaniu dwa testowe wykresy słupkowe.
 
+Dodano trzeci słownik zawierający koszty podzielone na 3 rodzaje: koszty sali, koszty hotelu i koszty pozostałe.
+
 Opis będzie rozbudowywany w miarę dalszej analizy. 
